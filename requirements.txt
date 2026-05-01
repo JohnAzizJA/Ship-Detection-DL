@@ -1,7 +1,9 @@
+# Install PyTorch with CUDA: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch>=2.0.0
+torchvision>=0.15.0
 ultralytics>=8.0.0
 opencv-python>=4.8.0
-numpy>=1.24.0
 matplotlib>=3.7.0
-Pillow>=10.0.0
-pyyaml>=6.0
+numpy>=1.24.0
+PyYAML>=6.0
 tqdm>=4.65.0

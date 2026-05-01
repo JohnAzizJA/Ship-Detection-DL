@@ -219,3 +219,6 @@ __marimo__/
 .vscode/
 data/
 data2/
+dataset/
+runs/
+.claude/
